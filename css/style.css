@@ -528,4 +528,6 @@ body {
 
 .carousel {
     border: 5px solid rgb(0, 0, 0);
+    border-radius: 55px 55px 55px 55px;
+    overflow: hidden;
 }
