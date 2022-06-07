@@ -496,6 +496,7 @@ body {
 }
 .title_card {
     position: relative;
+    text-shadow: 2px 2px #000000;
 }
 
 .title_card span {
