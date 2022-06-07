@@ -526,20 +526,6 @@ body {
 
 }
 
-.car_main{
-    position: absolute;
-    z-index: 1;
-   transition: animation 2s ease-in-out;
-   animation:card 4s ;
-    animation-iteration-count: infinite;
-   transform:scale(0);
-   perspective:100;
-
-}
-
-@keyframes card{
-    0% { transform: scale(1); }
-   50% { transform: scale(1.1); }
-   100% { transform: scale(1); }
-
+.carousel {
+    border: 5px solid rgb(0, 0, 0);
 }
